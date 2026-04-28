@@ -1,4 +1,4 @@
-<img width="3024" height="4032" alt="IMG_5503" src="https://github.com/user-attachments/assets/afeae5de-a7f5-491c-acfb-dbf33e69d5de" />
+
 
 # Graduation Project – GANs & Sound Sonification
 
@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=wHsIKdA9oV4
 Field recordings from both locations were analyzed (frequency + decibel data) and sonified into two MIDI-based compositions.
 
 **Tech:** Python, Jupyter, GANs, NumPy, PyDub, MIDIUtil
+
+<img width="600" alt="IMG_5503" src="https://github.com/user-attachments/assets/afeae5de-a7f5-491c-acfb-dbf33e69d5de" />
