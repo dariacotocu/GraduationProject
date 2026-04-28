@@ -1,5 +1,4 @@
-![IMG_5503](https://github.com/user-attachments/assets/d744ebb7-67ae-4782-add9-d6793e6c1cea)
-![IMG_5503](https://github.com/user-attachments/assets/f6c50b91-77cd-48b3-802b-3536ab545a10)
+<img width="3024" height="4032" alt="IMG_5503" src="https://github.com/user-attachments/assets/afeae5de-a7f5-491c-acfb-dbf33e69d5de" />
 
 # Graduation Project – GANs & Sound Sonification
 
